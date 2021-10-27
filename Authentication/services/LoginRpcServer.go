@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/irsal-yunus/ms-go-auth-login/Authentication/models"
+	"github.com/irsal-yunus/ms-go-auth-login/authentication/models"
 	rpc_auth "github.com/irsal-yunus/ms-go-auth-login/rpc/rpc_auth"
 )
 

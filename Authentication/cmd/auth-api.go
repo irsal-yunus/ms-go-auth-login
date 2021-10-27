@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/irsal-yunus/ms-go-auth-login/Authentication/models"
-	"github.com/irsal-yunus/ms-go-auth-login/Authentication/routers"
+	"github.com/irsal-yunus/ms-go-auth-login/authentication/models"
+	"github.com/irsal-yunus/ms-go-auth-login/authentication/routers"
 )
 
 var (
